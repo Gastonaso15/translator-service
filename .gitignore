@@ -1,0 +1,15 @@
+# Binaries and build directories
+bin/
+translator-service
+
+# Coverage outputs
+coverage.out
+coverage.html
+
+# Environment and local files
+.env
+*.local
+
+# OS files
+.DS_Store
+Thumbs.db
